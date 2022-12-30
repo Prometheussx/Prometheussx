@@ -29,6 +29,5 @@
    
 - ### **🏆 GitHub Stats:**
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Prometheussx&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prometheussx&theme=dark)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Prometheussx&show_icons=true&theme=radical)![GitHub Streak](https://streak-stats.demolab.com/?user=Prometheussx&theme=dark)
 
