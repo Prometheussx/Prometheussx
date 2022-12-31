@@ -9,10 +9,10 @@
   👨‍💻 *Mercutech Unmanned Aerial Vehicle And Air Defense Team Software Leader*
   
   🚀 *I am Conducting Studies On Artificial Intelligence And Image processing*
-  
-
+    
+   
 - ## **🛠️ Skills:**
- 
+  
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
    ![OpenCv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) 
@@ -25,6 +25,11 @@
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+   
+- ## **🏆 My Achievements**
+  ### **🪙 HackerRank Python Language 5 Star gold Medal**
+  
+     ![CodeWars](https://www.codewars.com/users/Prometheussx/badges/large)
    
 - ## **🖥️ Workspace Setup:**
   ![INTEL](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
