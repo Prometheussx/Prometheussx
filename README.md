@@ -26,11 +26,6 @@
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
    
-- ## **🏆 My Achievements**
-  ### **🪙 HackerRank Python Language 5 Star gold Medal**
-  
-     ![CodeWars](https://www.codewars.com/users/Prometheussx/badges/large)
-   
 - ## **🖥️ Workspace Setup:**
   ![INTEL](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
