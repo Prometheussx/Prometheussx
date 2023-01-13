@@ -35,7 +35,7 @@
   ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 - ## **🏆 GitHub Stats:**
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Prometheussx&show_icons=true&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prometheussx&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prometheussx&theme=dark&hide_border=true&border_radius=50&background=DD2727)](https://git.io/streak-stats)
 
 - ## **🔗 My Social Media Links:**
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/erdem-taha-sokullu/)
