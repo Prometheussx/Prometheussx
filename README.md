@@ -34,8 +34,8 @@
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 - ## **🏆 GitHub Stats:**
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheussx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=Prometheussx&theme=dark)](https://git.io/streak-stats)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheussx)](https://github.com/anuraghazra/github-readme-stats)
 - ## **🔗 My Social Media Links:**
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/erdem-taha-sokullu/)
  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=link)](https://github.com/Prometheussx)
