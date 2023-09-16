@@ -12,8 +12,6 @@
   👨‍💻 *Exterdos AI Team Founder and Software Captain*
   
   🚀 *I am Conducting Studies On Artificial Intelligence And Image processing*
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Prometheussx&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
    
 - ## **🛠️ Skills:**
   
@@ -38,7 +36,7 @@
   ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 - ## **🏆 GitHub Stats:**
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prometheussx&show_icons=true&theme=radical)
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Prometheussx&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 - ## **🔗 My Social Media Links:**
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/erdem-taha-sokullu/)
