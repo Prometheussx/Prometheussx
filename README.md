@@ -7,7 +7,9 @@
   
   🎓 *I am Studying Computer Engineering at Istanbul Arel University*
   
-  👨‍💻 *Mercutech Unmanned Aerial Vehicle And Air Defense Team Software Leader*
+  👨‍💻 *Former Mercutech Unmanned Aerial Vehicle and Air Defense Team Software Leader*
+
+  👨‍💻 *Extends AI Team Founder and Software Captain*
   
   🚀 *I am Conducting Studies On Artificial Intelligence And Image processing*
     
