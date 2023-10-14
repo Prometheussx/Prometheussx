@@ -9,7 +9,9 @@
   
   👨‍💻 *Former Mercutech Unmanned Aerial Vehicle and Air Defense Team Software Leader*
 
-  👨‍💻 *Exterdos AI Team Founder and Software Captain*
+  💫 *I am currently the Technology Team Leader of GDSC (Goggle Developer Student Club)*
+
+  ☄️ *Exterdos AI Team Founder and Software Leader*
   
   🚀 *I am Conducting Studies On Artificial Intelligence And Image processing*
    
