@@ -3,11 +3,7 @@
 
 - ## **📖 About Me:**
  
-  *My name is Erdem Taha Sokullu I am 20 years old I have been interested in software for 8 years I am carrying out studies on image processing and artificial           intelligence I am trying to improve myself in these areas and advance my horizons*
-  
-  🎓 *I am Studying Computer Engineering at Istanbul Arel University*
-  
-  👨‍💻 *Former Mercutech Unmanned Aerial Vehicle and Air Defense Team Software Leader*
+  *My name is Erdem Taha Sokullu I am 22 years old I have been interested in software for 11 years I am carrying out studies on image processing and artificial           intelligence I am trying to improve myself in these areas and advance my horizons*
 
   💫 *I am currently the Technology Team Leader of GDSC (Goggle Developer Student Club)*
 
