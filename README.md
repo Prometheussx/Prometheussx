@@ -3,7 +3,7 @@
 
 - ## **📖 About Me:**
  
-  *My name is Erdem Taha Sokullu I am 22 years old I have been interested in software for 11 years I am carrying out studies on image processing and artificial           intelligence I am trying to improve myself in these areas and advance my horizons*
+  *My name is Erdem Taha Sokullu I am 23 years old I have been interested in software for 13 years I am carrying out studies on image processing and artificial           intelligence I am trying to improve myself in these areas and advance my horizons*
    
 - ## **🛠️ Skills:**
   
